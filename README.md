@@ -36,4 +36,4 @@ This repo tracks my daily activities in Psy Protocol farming for points and pote
 - **Day 30 (Nov 25)**: Check-in.
 - **Day 31 (Nov 26)**: Discord active.
 - **Day 32 (Nov 27)**: Check-in. Testnet explored.
-- **Day 33 (Nov 28)**: Updated log for better formatting. Explored official Psy GitHub repos.Day 33: Formatted log and added today's entry"- Day 34 (Nov 29): Explored Psy testnet features. Check-in. Referral +1.- Day 35 (Nov 30): Retweet Psy update. Discord active. Testnet transaction tested.
+- **Day 33 (Nov 28)**: Updated log for better formatting. Explored official Psy GitHub repos.Day 33: Formatted log and added today's entry"- Day 34 (Nov 29): Explored Psy testnet features. Check-in. Referral +1.- Day 35 (Nov 30): Retweet Psy update. Discord active. Testnet transaction tested.Day 36 (Dec 01, 2025): Check-in. Retweet Psy update. Testnet bridge transaction. Discord active.Day 37 (Dec 02, 2025): Referral +1. Explored new Psy dApp features. Check-in. Testnet swap test.
