@@ -47,4 +47,6 @@ Dec 09, 2025: Daily testnet check-in done, claimed Psy Points and updated totals
 Tested new transaction for rewards, noted progress – excited for airdrop! 
 #psyprotocol #testnet
 
-
+Psy Protocol Diary - Dec 10, 2025: Daily testnet check-in completed, claimed Psy Points and refreshed totals.
+Executed a routine swap test, logged metrics – airdrop streak strong! 
+#psyprotocol #testnet
