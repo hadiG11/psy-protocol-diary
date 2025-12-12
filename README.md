@@ -46,7 +46,7 @@ Transactions try ki,rewards notes liye – excited for airdrop,streak continue! 
 Dec 09, 2025: Daily testnet check-in done, claimed Psy Points and updated totals.
 Tested new transaction for rewards, noted progress – excited for airdrop! 
 #psyprotocol #testnet
-
-Psy Protocol Diary - Dec 10, 2025: Daily testnet check-in completed, claimed Psy Points and refreshed totals.
+Psy Protocol Diary - Dec 10, 2025: Daily testnet check-in completed, claimed Psy Points and refreshed totals.
 Executed a routine swap test, logged metrics – airdrop streak strong! 
-#psyprotocol #testnet
+#psyprotocol #testnet.
+Psy Protocol Diary - Dec 11, 2025: Daily testnet check-in completed, claimed Psy Points and updated totals. Executed a new transaction for rewards, noted progress - excited for airdrop! #PsyProtocol #TestnetPsy Protocol Diary - Dec 12, 2025: Completed daily testnet check-in, claimed Psy Points and refreshed totals. Tested a routine swap, logged metrics - airdrop streak strong! #PsyProtocol #TestnetPsy Protocol Diary - Dec 13, 2025: Daily testnet check-in done, claimed Psy Points and updated totals. Performed a verification transaction, monitored rewards progress - keeping the airdrop streak alive! #PsyProtocol #Testnet
